@@ -1,4 +1,4 @@
-# Let-It-Attend
+# readme
 
 Un Transformer encodeur-décodeur écrit à la main en PyTorch : il écoute une phrase (CMU ARCTIC) et écrit ses phonèmes.
 
