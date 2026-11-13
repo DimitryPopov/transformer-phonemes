@@ -1,6 +1,6 @@
 # readme
 
-Un Transformer encodeur-décodeur écrit à la main en PyTorch : il écoute une phrase (CMU ARCTIC) et écrit ses phonèmes.
+Un Transformer encodeur-décodeur écrit à la main en PyTorch : il écoute une phrase en anglais et écrit ses phonèmes.
 
 ```bash
 pip install -r requirements.txt
